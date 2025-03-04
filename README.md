@@ -1,4 +1,7 @@
 
+
+# Sobre el Componente
+
 a.	Nombre de la carrera:	Ingeniería Estadística 
 
 b.	Nombre de la facultad:	Ciencias e Ingeniería  
@@ -28,5 +31,6 @@ El programa de Programación en R abarca un total de 115 horas las cuales equiva
 La inclusión de los valores de honestidad y transparencia, así como la ética profesional, se integran de manera transversal en cada paso y corte evaluativo del programa. El objetivo es que estos valores sean tangibles en el comportamiento de los estudiantes, promoviendo una formación integral que vaya más allá de las habilidades técnicas, enfocándose también en el desarrollo ético y profesional de los discentes.
 
 
+# Sobre el Docente
 
 
